@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1, Bešeňová - AQUAPARK BEŠEŇOVÁ 
+https://stream.profi-net.sk:443/tmr//STREAM35.stream/playlist.m3u8
+#EXTINF:-2, Štrbské Pleso - AREÁL ŠTRBSKÉ PLESO 
+https://stream.profi-net.sk:443/strba/STRB_AREAL.stream/playlist.m3u8
+#EXTINF:-3, Štrbské Pleso - BEŽECKÝ AREÁL
+https://stream.profi-net.sk:443/strba/BEZ_AREAL.stream/playlist.m3u8
+#EXTINF:-4, Jasná - BIELA PÚŤ
+https://stream.profi-net.sk:443/tmr//STREAM3.stream/playlist.m3u8
+#EXTINF:-5, BŘEST
+https://kukaj.profi-net.sk:443/live/BOCIANY_BREST.stream/playlist.m3u8
+#EXTINF:-6, Jasná - CHOPOK - FREERIDE ZONE
+https://stream.profi-net.sk:443/tmr/STREAM40.stream/playlist.m3u8
+#EXTINF:-7, Jasná - CHOPOK VÝCHOD
+https://stream.profi-net.sk:443/tmr//STREAM6.stream/playlist.m3u8
+#EXTINF:-8, Donovaly - DONOVALY
+https://stream.profi-net.sk:443/donovaly/PANORAMA_DONOVALY.stream/playlist.m3u8
+#EXTINF:-9, Donovaly - DONOVALY ARÉNA
+https://stream.profi-net.sk:443/donovaly/DONOVALY_ARENA.stream/playlist.m3u8
+#EXTINF:-10, Donovaly - DONOVALY PARKSNOW
+https://stream.profi-net.sk:443/donovaly/DONOVALY_BILBOARD.stream/playlist.m3u8
+#EXTINF:-11, Donovaly FUNPARK
+https://stream.profi-net.sk:443/donovaly/FUNPARK.stream/playlist.m3u8
+#EXTINF:-12, HOLUBYHO CHATA
+https://kukaj.profi-net.sk:443/commercial/HOLUBYHOCHATA.stream/playlist.m3u8
+#EXTINF:-13, HREBIENOK
+https://stream.profi-net.sk:443/tmr//STREAM14.stream/playlist.m3u8
+#EXTINF:-14, HREBIENOK PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM15.stream/playlist.m3u8
+#EXTINF:-15, Jasná - TWINLINER PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM16.stream/playlist.m3u8
+#EXTINF:-16, Chopok Juh - KAMENNÁ CHATA
+https://kukaj.profi-net.sk:443/live/KAMIENKA.stream/playlist.m3u8
+#EXTINF:-17, Jasná - KONSKÝ GRÚŇ
+https://stream.profi-net.sk:443/tmr//STREAM17.stream/playlist.m3u8
+#EXTINF:-18, KOSODREVINA PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM21.stream/playlist.m3u8
+#EXTINF:-19, KRIVÁŇ POHĽAD Z HOTELA  PERMON
+https://stream.profi-net.sk:443/live/PERMON.stream/playlist.m3u8
+#EXTINF:-20, KROMEŘÍŽ - ul. Hulínska
+https://kukaj.profi-net.sk:443/live/KROMERIZ.stream/playlist.m3u8
+#EXTINF:-21, Lisková - LISKOVÁ
+https://kukaj.profi-net.sk:443/live/BOCIANY_LISKOVA.stream/playlist.m3u8
+#EXTINF:-22, Vysoké Tatry - LOMNICKÝ ŠTÍT PANORÁMA II
+https://stream.profi-net.sk:443/tmr//STREAM23.stream/playlist.m3u8
+#EXTINF:-23, Jasná - LUKOVÁ PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM18.stream/playlist.m3u8
+#EXTINF:-24, MALINO BRDO - HRABOVO DOJAZD
+https://stream.profi-net.sk:443/mb/MALINO4.stream/playlist.m3u8
+#EXTINF:-25, MALINO BRDO 1209 m.n.m.
+https://stream.profi-net.sk:443/mb/MALINO1.stream/playlist.m3u8
+#EXTINF:-26, MALINO BRDO PANORÁMA
+https://stream.profi-net.sk:443/mb/MALINO2.stream/playlist.m3u8
+#EXTINF:-27, MALINO BRDO VLEKY
+https://stream.profi-net.sk:443/mb/MALINO6.stream/playlist.m3u8
+#EXTINF:-28, MARINA LIPTOV
+https://kukaj.profi-net.sk:443/live/MARINA.stream/playlist.m3u8
+#EXTINF:-29, Donovaly - NOVÁ HOĽA DOJAZD 2
+https://stream.profi-net.sk:443/donovaly/NH_DOJAZD2.stream/playlist.m3u8
+#EXTINF:-30, Donovaly - NOVÁ HOLA HORSKÁ ZÁCHRANNÁ  SLUŽBA
+https://kukaj.profi-net.sk:443/live/HSNH.stream/playlist.m3u8
+#EXTINF:-31, Donovaly  - NOVÁ HOĽA PANORÁMA
+https://stream.profi-net.sk:443/donovaly/NOVAHOLAPAN.stream/playlist.m3u8
+#EXTINF:-32, Donovaly - NOVÁ HOĽA TELEMIX
+https://stream.profi-net.sk:443/donovaly/NHVELIN.stream/playlist.m3u8
+#EXTINF:-33, OBEC ŠTRBA
+https://stream.profi-net.sk:443/strba/OBEC_STRBA.stream/playlist.m3u8
+#EXTINF:-34, ZÁVAŽNÁ PORUBA - OPALISKO 1
+https://kukaj.profi-net.sk:443/commercial/OPALISKO.stream/playlist.m3u8
+#EXTINF:-35, ZÁVAŽNÁ PORUBA - OPALISKO 2
+https://kukaj.profi-net.sk:443/commercial/SKIOPALISKO.stream/playlist.m3u8
+#EXTINF:-36, Štrbské Pleso - PANORÁMA VYSOKÝCH TATIER
+https://stream.profi-net.sk:443/strba/PANORAMA_VT.stream/playlist.m3u8
+#EXTINF:-37, PARTIZÁNSKA ĽUPČA
+https://kukaj.profi-net.sk:443/live/BOCIANY_LUPCA.stream /playlist.m3u8
+#EXTINF:-38, PODBANSKÉ VLEK
+https://stream.profi-net.sk:443/live/PERMON_VLEK.stream/playlist.m3u8
+#EXTINF:-39, Štrbské Pleso - POHĽAD NA MÓRYHO VYHLIADKU
+https://stream.profi-net.sk:443/strba/MORYHO_VYH.stream/playlist.m3u8
+#EXTINF:-40, POVAŽSKÝ INOVEC
+https://stream.profi-net.sk:443/commercial/RADIONET1.stream/playlist.m3u8
+#EXTINF:-41, PRIBYLINA
+https://kukaj.profi-net.sk:443/live/BOCIANY_PRIBYLINA.stream /playlist.m3u8
+#EXTINF:-42, Jasná - PRIEHYBA
+https://stream.profi-net.sk:443/tmr//STREAM19.stream/playlist.m3u8
+#EXTINF:-43, Jasná - PRIEHYBA PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM9.stream/playlist.m3u8
+#EXTINF:-44, Ružomberok - RUŽOMBEROK, NÁBREŽIE M.R.ŠTEFÁNIKA
+https://kukaj.profi-net.sk:443/live/STEFANICKA.stream/playlist.m3u8
+#EXTINF:-45, Štrbské Pleso - SOLISKO
+https://stream.profi-net.sk:443/tmr//STREAM31.stream/playlist.m3u8
+#EXTINF:-46, Jasná - SRDIEČKO
+https://stream.profi-net.sk:443/tmr//STREAM26.stream/playlist.m3u8
+#EXTINF:-47, Jasná - SRDIEČKO PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM22.stream/playlist.m3u8
+#EXTINF:-48, Štrbské Pleso - ŠTRBSKÉ PLESO PANORÁMA
+https://stream.profi-net.sk:443/tmr/STREAM32.stream/playlist.m3u8
+#EXTINF:-49, SZCZYRK GONDOLA
+https://stream.profi-net.sk:443/tmr//SZCZYRK1.stream/playlist.m3u8
+#EXTINF:-50, SZCZYRK Hala Skrzyczenska
+https://stream.profi-net.sk:443/tmr//SZCZYRK3.stream/playlist.m3u8
+#EXTINF:-51, SZCZYRK SOLISKO
+https://stream.profi-net.sk:443/tmr//SZCZYRK2.stream/playlist.m3u8
+#EXTINF:-52, Tatranská Lomnica - TATRANSKÁ LOMNICA PANORÁMA
+https://stream.profi-net.sk:443/tmr//STREAM33.stream/playlist.m3u8
+#EXTINF:-53, Tatranská Lomnica - TATRANSKÁ LOMNICA ŠTART
+https://stream.profi-net.sk:443/tmr//STREAM34.stream/playlist.m3u8
+#EXTINF:-54, VAVRIŠOVO
+https://kukaj.profi-net.sk:443/live/BOCIANY_VAVRISOVO.stream/playlist.m3u8
+#EXTINF:-55, Štrbské Pleso - VÝHĽAD DO POHORIA VYSOKÝCH TATIER
+https://stream.profi-net.sk:443/strba/VYHLAD_VT.stream/playlist.m3u8
+#EXTINF:-56, Štrbské Pleso - VÝHĽAD NA JAZERO S PANORÁMOU
+https://stream.profi-net.sk:443/strba/VYHLAD_JAZERO.stream/playlist.m3u8
+#EXTINF:-57, Štrbské Pleso - VÝHĽAD NA JAZERO ZO SKOK. MOSTÍKA
+https://stream.profi-net.sk:443/strba/VYHLAD_SKOK.stream/playlist.m3u8
+#EXTINF:-58, Štrbské Pleso - VÝHĽAD NA NÁMESTIE MAJSTROVSTIEV SVETA
+https://stream.profi-net.sk:443/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-59, Štrbské Pleso - VÝHĽAD NA NOVÉ ŠTRBSKÉ PLESO
+https://stream.profi-net.sk:443/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-60, Štrbské Pleso - VÝHĽAD NA ZJAZDOVKY
+https://stream.profi-net.sk:443/strba/VYHLAD_ZJAZDOVKY.stream/playlist.m3u8
+#EXTINF:-61,VYŠNÁ BOCA
+https://kukaj.profi-net.sk:443/live/BOCA.stream/playlist.m3u8
+#EXTINF:-62, VYSOKÁ PRI MORAVE
+https://kukaj.profi-net.sk:443/live/BOCIANY_VYSOKAPRIMORAVE.stream/playlist.m3u8
+#EXTINF:-63, Donovaly - ZÁHRADIŠTE 1
+https://stream.profi-net.sk:443/donovaly/KASA_ZAHRADISTE.stream/playlist.m3u8
+#EXTINF:-64, Donovaly - ZÁHRADIŠTE 2
+https://stream.profi-net.sk:443/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-65, Jasná - ZÁHRADKY
+https://stream.profi-net.sk:443/tmr//STREAM43.stream/playlist.m3u8
+
+
